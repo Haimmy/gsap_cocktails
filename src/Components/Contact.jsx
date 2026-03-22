@@ -21,7 +21,7 @@ const Contact = () => {
             .to('#f-left-leaf', {
                 y:'-50', duration:1, ese: 'power1.inOut'})
             .to('#f-right-leaf', {
-                y:'50', duration:1, ese: 'power1.inOut'})
+                y:'-50', duration:1, ese: 'power1.inOut'} , '<')
     })
 
 
