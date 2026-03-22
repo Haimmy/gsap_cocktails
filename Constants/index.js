@@ -8,7 +8,7 @@ const navLinks = [
 	title: "About Us",
  },
  {
-	id: "work",
+	id: "art",
 	title: "The Art",
  },
  {
@@ -21,26 +21,26 @@ const cocktailLists = [
  {
 	name: "Chapel Hill Shiraz",
 	country: "AU",
-	detail: "Battle",
-	price: "$10",
+	detail: "Bottle",
+	price: "480 Br",
  },
  {
 	name: "Caten Malbee",
 	country: "AU",
-	detail: "Battle",
-	price: "$49",
+	detail: "Bottle",
+	price: "520 Br",
  },
  {
 	name: "Rhino Pale Ale",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "320 Br",
  },
  {
 	name: "Irish Guinness",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "350 Br",
  },
 ];
 
@@ -48,29 +48,28 @@ const mockTailLists = [
  {
 	name: "Tropical Bloom",
 	country: "US",
-	detail: "Battle",
-	price: "$10",
+	detail: "Glass",
+	price: "220 Br",
  },
  {
 	name: "Passionfruit Mint",
 	country: "US",
-	detail: "Battle",
-	price: "$49",
+	detail: "Glass",
+	price: "280 Br",
  },
  {
 	name: "Citrus Glow",
 	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	detail: "Glass",
+	price: "260 Br",
  },
  {
 	name: "Lavender Fizz",
 	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	detail: "Glass",
+	price: "300 Br",
  },
 ];
-
 const profileLists = [
  {
 	imgPath: "/images/profile1.png",
